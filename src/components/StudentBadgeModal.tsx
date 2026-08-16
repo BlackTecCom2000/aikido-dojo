@@ -48,7 +48,7 @@ export const StudentBadgeModal: React.FC<StudentBadgeModalProps> = ({
             ТЭНСИН АЙКИДО ДОДЗЁ
           </h3>
           <p className="text-[11px] text-amber-300/90 font-medium">
-            Шихан Абдуллозода Ҷумъахон (6 Дан)
+            Главный тренер: Табаров Фотеҳ (3 Дан Айкидо Айкикай)
           </p>
         </div>
 

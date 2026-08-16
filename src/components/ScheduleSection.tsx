@@ -25,7 +25,7 @@ export const ScheduleSection: React.FC<ScheduleSectionProps> = ({
       time: '18:00 - 19:30',
       title: 'Айкидо Новички / Beginner Foundations',
       group: 'beginners',
-      sensei: 'Сэнсэй Зафар Каримов (5 Дан)',
+      sensei: 'Табаров Фотеҳ (3 Дан Айкидо Айкикай)',
       location: 'Додзё 1 (Зал Татами)',
     },
     {
@@ -34,7 +34,7 @@ export const ScheduleSection: React.FC<ScheduleSectionProps> = ({
       time: '19:30 - 21:00',
       title: 'Взрослые / Advanced Aikido Practice',
       group: 'adults',
-      sensei: 'Сэнсэй Алексей Громов (6 Дан)',
+      sensei: 'Абдуллозода Ҷумъахон (2 Дан Айкидо Айкикай)',
       location: 'Главный Зал',
     },
     {
@@ -43,7 +43,7 @@ export const ScheduleSection: React.FC<ScheduleSectionProps> = ({
       time: '16:30 - 17:45',
       title: 'Детская Группа / Youth Ki & Defense (6-14 лет)',
       group: 'kids',
-      sensei: 'Инструктор Елена Соколова (3 Дан)',
+      sensei: 'Алимардонов Далер (1 Дан Айкидо Айкикай)',
       location: 'Малый Зал',
     },
     {
@@ -52,7 +52,7 @@ export const ScheduleSection: React.FC<ScheduleSectionProps> = ({
       time: '19:00 - 20:30',
       title: 'Оружие / Weapons Workshop (Bokken & Jo)',
       group: 'weapons',
-      sensei: 'Сэнсэй Зафар Каримов (5 Дан)',
+      sensei: 'Табаров Фотеҳ (3 Дан Айкидо Айкикай)',
       location: 'Додзё 1 (Зал Татами)',
     },
     {
@@ -61,7 +61,7 @@ export const ScheduleSection: React.FC<ScheduleSectionProps> = ({
       time: '10:00 - 12:30',
       title: 'Интенсив & Медитация / Kokyu-ho & Randori',
       group: 'adults',
-      sensei: 'Совет Мастеров Додзё',
+      sensei: 'Тренерский состав Додзё',
       location: 'Главный Зал',
     },
   ];

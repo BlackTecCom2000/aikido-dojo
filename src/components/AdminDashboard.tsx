@@ -190,7 +190,7 @@ export const AdminDashboard: React.FC<AdminDashboardProps> = ({
                 </span>
               </div>
               <p className="text-xs text-slate-400">
-                Куратор: Шихан Абдуллозода Ҷумъахон (6 Дан Айкикай)
+                Главный тренер: Табаров Фотеҳ (3 Дан Айкидо Айкикай)
               </p>
             </div>
           </div>

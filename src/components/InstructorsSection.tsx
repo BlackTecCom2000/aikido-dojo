@@ -104,7 +104,7 @@ export const InstructorsSection: React.FC<InstructorsSectionProps> = ({
                     className="px-6 py-3 rounded-xl bg-red-600 hover:bg-red-700 text-white text-xs sm:text-sm font-bold transition-transform active:scale-95 shadow-lg shadow-red-600/30 flex items-center gap-2"
                   >
                     <Sparkles className="w-4 h-4 text-amber-300" />
-                    <span>Записаться в группу Шихана Ҷумъахона</span>
+                    <span>Записаться в группу Табарова Фотеҳа</span>
                   </button>
                 </div>
               </div>
